@@ -1,6 +1,5 @@
 # motor_show_2024_app
 <img width="125px" src="https://github.com/Kronthrong03/Motor_Show_2024/assets/165864209/76bd488d-b96d-4131-a641-af0ec168f78e">
-<img width="125px" src="https://github.com/Kronthrong03/Motor_Show_2024/assets/165864209/de0cf6e4-c217-4b67-bd02-759663a1d2be">
 <img width="125px" src="https://github.com/Kronthrong03/Motor_Show_2024/assets/165864209/4b8322dc-d271-4f85-820c-635b0b1269dd">
 <img width="125px" src="https://github.com/Kronthrong03/Motor_Show_2024/assets/165864209/6d6521bf-1d6c-4cb5-9437-7a178e3c6de9">
 <img width="125px" src="https://github.com/Kronthrong03/Motor_Show_2024/assets/165864209/9d5b5174-bfe3-460e-8e6c-6e0238d58776">
